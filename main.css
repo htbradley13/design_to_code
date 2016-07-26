@@ -125,3 +125,7 @@ a:hover {
   color: #999;
   padding-right: 8px;
 }
+
+.fa-star:hover {
+  color: #FFFF00;
+}
