@@ -1,0 +1,21 @@
+.container {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+nav {
+	height: 60px;
+	background-color: grey;
+	position: fixed;
+	width: 100%;
+}
+nav ul {
+	list-style: none;
+}
+nav li {
+	display: inline-block;
+}
+.rightBar {
+	margin-right: 10px;
+	padding: 5px;
+	color: purple;
+}
